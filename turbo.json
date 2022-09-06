@@ -15,6 +15,14 @@
 				"dist/**"
 			]
 		},
+		"@nouns/webapp#build": {
+			"dependsOn": [
+				"^build"
+			],
+			"outputs": [
+				"build/**"
+			]
+		},
 		"test": {
 			// A package's `test` script depends on that package's
 			// own `build` script being completed first.
