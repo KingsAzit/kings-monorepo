@@ -11,11 +11,11 @@ const Banner = () => {
       <Col lg={6}>
         <div className={classes.wrapper}>
           <h1>
-            <Trans>ONE NOUN,</Trans>
+            <Trans>Treasury</Trans>
             <br />
-            <Trans>EVERY DAY,</Trans>
+            <Trans>Governed By</Trans>
             <br />
-            <Trans>FOREVER.</Trans>
+            <Trans>Kings.</Trans>
           </h1>
         </div>
       </Col>
