@@ -39,10 +39,7 @@ const Documentation = () => {
           </h1>
           <p className={classes.aboutText}>
             <Trans>
-              Nouns are an experimental attempt to improve the formation of on-chain avatar
-              communities. While projects such as {cryptopunksLink} have attempted to bootstrap
-              digital community and identity, Nouns attempt to bootstrap identity, community,
-              governance, and a treasury that can be used by the community.
+              Kings is an investment DAO project that invests with collective intelligence. Experts of various domains contribute to make the best yield and diverse the investment portfolio. Deal tokens and subDAO enable easy liquidation of the positions that weren’t possible before.
             </Trans>
           </p>
           <p className={classes.aboutText} style={{ paddingBottom: '4rem' }}>
