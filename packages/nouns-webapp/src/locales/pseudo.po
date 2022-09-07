@@ -353,8 +353,8 @@ msgid "Docs"
 msgstr ""
 
 #: src/components/Banner/index.tsx
-msgid "EVERY DAY,"
-msgstr ""
+#~ msgid "EVERY DAY,"
+#~ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "Each time an auction is settled, the settlement transaction will also cause a new Noun to be minted and a new 24 hour auction to begin."
@@ -422,8 +422,8 @@ msgid "Explore"
 msgstr ""
 
 #: src/components/Banner/index.tsx
-msgid "FOREVER."
-msgstr ""
+#~ msgid "FOREVER."
+#~ msgstr ""
 
 #: src/pages/Vote/index.tsx
 msgid "Failed to fetch"
@@ -474,6 +474,10 @@ msgstr ""
 msgid "Governance ‘Slow Start’"
 msgstr ""
 
+#: src/components/Banner/index.tsx
+msgid "Governed By"
+msgstr ""
+
 #: src/components/DelegationCandidateInfo/index.tsx
 msgid "Has"
 msgstr ""
@@ -492,6 +496,9 @@ msgid "Help mint the next Noun"
 msgstr ""
 
 #: src/components/profileEvent/event/DesktopTransferEvent/index.tsx
+msgid "Holder changed from <0><1/></0> to <2><3/></2>"
+msgstr ""
+
 #: src/components/profileEvent/event/MobileTransferEvent/index.tsx
 msgid "Holder changed from<0><1/></0> to <2><3/></2>"
 msgstr ""
@@ -502,6 +509,18 @@ msgstr ""
 
 #: src/components/Bid/index.tsx
 msgid "Insufficient bid amount 🤏"
+msgstr ""
+
+#: src/components/AuctionActivityNounTitle/index.tsx
+msgid "King {0}"
+msgstr ""
+
+#: src/components/Documentation/index.tsx
+msgid "Kings is an investment DAO project that invests with collective intelligence. Experts of various domains contribute to make the best yield and diverse the investment portfolio. Deal tokens and subDAO enable easy liquidation of the positions that weren’t possible before."
+msgstr ""
+
+#: src/components/Banner/index.tsx
+msgid "Kings."
 msgstr ""
 
 #: src/components/NavLocaleSwitcher/index.tsx
@@ -563,8 +582,8 @@ msgid "Noun votes are not transferable, but are <0>delegatable</0>, which means 
 msgstr ""
 
 #: src/components/AuctionActivityNounTitle/index.tsx
-msgid "Noun {0}"
-msgstr ""
+#~ msgid "Noun {0}"
+#~ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "Nounder distributions don't interfere with the cadence of 24 hour auctions. Nouns are sent directly to the Nounder's Multisig, and auctions continue on schedule with the next available Noun ID."
@@ -613,8 +632,8 @@ msgid "Nouns Protocol"
 msgstr ""
 
 #: src/components/Documentation/index.tsx
-msgid "Nouns are an experimental attempt to improve the formation of on-chain avatar communities. While projects such as {cryptopunksLink} have attempted to bootstrap digital community and identity, Nouns attempt to bootstrap identity, community, governance, and a treasury that can be used by the community."
-msgstr ""
+#~ msgid "Nouns are an experimental attempt to improve the formation of on-chain avatar communities. While projects such as {cryptopunksLink} have attempted to bootstrap digital community and identity, Nouns attempt to bootstrap identity, community, governance, and a treasury that can be used by the community."
+#~ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "Nouns are generated randomly based Ethereum block hashes. There are no 'if' statements or other rules governing Noun trait scarcity, which makes all Nouns equally rare. As of this writing, Nouns are made up of:"
@@ -637,8 +656,8 @@ msgid "Now has"
 msgstr ""
 
 #: src/components/Banner/index.tsx
-msgid "ONE NOUN,"
-msgstr ""
+#~ msgid "ONE NOUN,"
+#~ msgstr ""
 
 #: src/components/Documentation/index.tsx
 msgid "On-Chain Artwork"
@@ -938,6 +957,7 @@ msgstr ""
 msgid "Transaction Successful!"
 msgstr ""
 
+#: src/components/Banner/index.tsx
 #: src/components/NavBarTreasury/index.tsx
 #: src/pages/Governance/index.tsx
 msgid "Treasury"

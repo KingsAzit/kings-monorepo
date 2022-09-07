@@ -353,8 +353,8 @@ msgid "Docs"
 msgstr "Docs"
 
 #: src/components/Banner/index.tsx
-msgid "EVERY DAY,"
-msgstr "EVERY DAY,"
+#~ msgid "EVERY DAY,"
+#~ msgstr "EVERY DAY,"
 
 #: src/components/Documentation/index.tsx
 msgid "Each time an auction is settled, the settlement transaction will also cause a new Noun to be minted and a new 24 hour auction to begin."
@@ -422,8 +422,8 @@ msgid "Explore"
 msgstr "Explore"
 
 #: src/components/Banner/index.tsx
-msgid "FOREVER."
-msgstr "FOREVER."
+#~ msgid "FOREVER."
+#~ msgstr "FOREVER."
 
 #: src/pages/Vote/index.tsx
 msgid "Failed to fetch"
@@ -474,6 +474,10 @@ msgstr "Governance"
 msgid "Governance ‘Slow Start’"
 msgstr "Governance ‘Slow Start’"
 
+#: src/components/Banner/index.tsx
+msgid "Governed By"
+msgstr "Governed By"
+
 #: src/components/DelegationCandidateInfo/index.tsx
 msgid "Has"
 msgstr "Has"
@@ -492,6 +496,9 @@ msgid "Help mint the next Noun"
 msgstr "Help mint the next Noun"
 
 #: src/components/profileEvent/event/DesktopTransferEvent/index.tsx
+msgid "Holder changed from <0><1/></0> to <2><3/></2>"
+msgstr "Holder changed from <0><1/></0> to <2><3/></2>"
+
 #: src/components/profileEvent/event/MobileTransferEvent/index.tsx
 msgid "Holder changed from<0><1/></0> to <2><3/></2>"
 msgstr "Holder changed from<0><1/></0> to <2><3/></2>"
@@ -503,6 +510,18 @@ msgstr "Holder changed from<0><1/></0> to <2><3/></2>"
 #: src/components/Bid/index.tsx
 msgid "Insufficient bid amount 🤏"
 msgstr "Insufficient bid amount 🤏"
+
+#: src/components/AuctionActivityNounTitle/index.tsx
+msgid "King {0}"
+msgstr "King {0}"
+
+#: src/components/Documentation/index.tsx
+msgid "Kings is an investment DAO project that invests with collective intelligence. Experts of various domains contribute to make the best yield and diverse the investment portfolio. Deal tokens and subDAO enable easy liquidation of the positions that weren’t possible before."
+msgstr "Kings is an investment DAO project that invests with collective intelligence. Experts of various domains contribute to make the best yield and diverse the investment portfolio. Deal tokens and subDAO enable easy liquidation of the positions that weren’t possible before."
+
+#: src/components/Banner/index.tsx
+msgid "Kings."
+msgstr "Kings."
 
 #: src/components/NavLocaleSwitcher/index.tsx
 msgid "Language"
@@ -563,8 +582,8 @@ msgid "Noun votes are not transferable, but are <0>delegatable</0>, which means 
 msgstr "Noun votes are not transferable, but are <0>delegatable</0>, which means you can assign your vote to someone else as long as you own your Noun."
 
 #: src/components/AuctionActivityNounTitle/index.tsx
-msgid "Noun {0}"
-msgstr "Noun {0}"
+#~ msgid "Noun {0}"
+#~ msgstr "Noun {0}"
 
 #: src/components/Documentation/index.tsx
 msgid "Nounder distributions don't interfere with the cadence of 24 hour auctions. Nouns are sent directly to the Nounder's Multisig, and auctions continue on schedule with the next available Noun ID."
@@ -613,8 +632,8 @@ msgid "Nouns Protocol"
 msgstr "Nouns Protocol"
 
 #: src/components/Documentation/index.tsx
-msgid "Nouns are an experimental attempt to improve the formation of on-chain avatar communities. While projects such as {cryptopunksLink} have attempted to bootstrap digital community and identity, Nouns attempt to bootstrap identity, community, governance, and a treasury that can be used by the community."
-msgstr "Nouns are an experimental attempt to improve the formation of on-chain avatar communities. While projects such as {cryptopunksLink} have attempted to bootstrap digital community and identity, Nouns attempt to bootstrap identity, community, governance, and a treasury that can be used by the community."
+#~ msgid "Nouns are an experimental attempt to improve the formation of on-chain avatar communities. While projects such as {cryptopunksLink} have attempted to bootstrap digital community and identity, Nouns attempt to bootstrap identity, community, governance, and a treasury that can be used by the community."
+#~ msgstr "Nouns are an experimental attempt to improve the formation of on-chain avatar communities. While projects such as {cryptopunksLink} have attempted to bootstrap digital community and identity, Nouns attempt to bootstrap identity, community, governance, and a treasury that can be used by the community."
 
 #: src/components/Documentation/index.tsx
 msgid "Nouns are generated randomly based Ethereum block hashes. There are no 'if' statements or other rules governing Noun trait scarcity, which makes all Nouns equally rare. As of this writing, Nouns are made up of:"
@@ -637,8 +656,8 @@ msgid "Now has"
 msgstr "Now has"
 
 #: src/components/Banner/index.tsx
-msgid "ONE NOUN,"
-msgstr "ONE NOUN,"
+#~ msgid "ONE NOUN,"
+#~ msgstr "ONE NOUN,"
 
 #: src/components/Documentation/index.tsx
 msgid "On-Chain Artwork"
@@ -938,6 +957,7 @@ msgstr "Transaction Failed"
 msgid "Transaction Successful!"
 msgstr "Transaction Successful!"
 
+#: src/components/Banner/index.tsx
 #: src/components/NavBarTreasury/index.tsx
 #: src/pages/Governance/index.tsx
 msgid "Treasury"
